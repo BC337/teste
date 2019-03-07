@@ -1,0 +1,1 @@
+C:\>bitsadmin /Transfer myDownloadJob https://download.microsoft.com/download/0/5/C/05C1EC0E-D5EE-463B-BFE3-9311376A6809/NDP472-KB4054531-Web.exe c:\downloads\KB4054531-Web.exe
